@@ -28,5 +28,5 @@ https://play.google.com/store/apps/details?id=io.bltinteractive.pixelpushfootbal
 main.gd = main game controller and logic 
 game_event_control.gd = giant case switch I used to try and organize common events in the game
 menu_control.gd = I had no idea how to do UI so this is ridiculous (but functional)
-
+rubick.gd = the AI for the computer
 

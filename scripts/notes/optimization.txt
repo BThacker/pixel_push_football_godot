@@ -1,0 +1,9 @@
+Massively reduce APK size by multiple exports:
+https://godotengine.org/qa/39550/how-to-reduce-android-apk-size-reduce-startup-time-too
+
+
+You should export one APK per architecture supported by Android (ARMv7, ARMv8, x86) then upload them using Google Play's multiple APK support.
+x86 is optional, but ARMv7 and ARMv8 (64-bit ARM) will be required starting from August 2019. T
+o do so, create several export presets, each of them having only one architecture checked (the export process will strip unused libraries from the APK).
+
+This will make each APK much smaller as it will only contain the native library required by the user's device.

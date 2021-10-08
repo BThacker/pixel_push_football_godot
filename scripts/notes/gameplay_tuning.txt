@@ -1,0 +1,22 @@
+football weight / damping
+old weight 9.8
+damp 2, damp 1.5
+
+
+physics calculations for AI done based on ball defaults
+tune touch force for player input
+current touch force is .5 weight
+
+
+time before sleep .25
+
+
+
+
+new weight:
+.25 mass on touch force
+touch force drag scale 40 (makes it much more responsive on mobile)
+.25 mass makes the impact take a lot of effort on mobile
+
+bumping back up to .35
+

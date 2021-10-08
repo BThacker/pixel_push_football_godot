@@ -1,0 +1,9 @@
+Total game length (turns? time?)
+
+Total yardage gained
+Avg distance left to goal after Shot
+Shots per touchdown
+two points attempted / succeeded
+PAT attempted / succeeded
+Touchbacks
+safetys

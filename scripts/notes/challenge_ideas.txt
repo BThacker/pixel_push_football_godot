@@ -1,0 +1,21 @@
+Challenge ideas
+track spin of ball
+have to hit random scoring locations on the field
+
+
+have to score touchdowns in a row, 10, 20, 30, 40, 50, 60, 70, 80, 90 yards
+
+2 minute warning, score as many touchdowns within 2 minutes while moving back and up the field
+
+
+beat the defense
+3 levels, front lineman, middle linebacker, far safety
+slow, medium, fast
+heavy, middle, light
+
+field goal frenzy - dont mess with this goal post
+
+hit the reciever
+
+
+add the random tackling dummies to the 2 player mode as a unlockable game mode

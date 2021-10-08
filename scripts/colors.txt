@@ -1,0 +1,8 @@
+Palette - AAP64
+Blue - 285cc4
+Red - b4202a
+Endzone - 1a7a3e
+Black - 000000
+Brown - 71413b
+field1 - 328464
+field2 - 23674e

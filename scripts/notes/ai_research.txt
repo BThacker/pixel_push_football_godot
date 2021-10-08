@@ -1,0 +1,17 @@
+AI information
+
+Velocity
+x = 650, moves half screen
+x = 1300 moves full screen
+
+y = 1800 moves 80 yards or 865 pixels?
+y = 900 moves 40 yards
+
+
+X velocity when applied with y always has the ball end
+up in the same location
+
+
+impulse offset does not seem to effect where
+ball ends up base on applied impulse
+

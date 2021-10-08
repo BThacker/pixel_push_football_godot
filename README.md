@@ -29,4 +29,5 @@ main.gd = main game controller and logic
 game_event_control.gd = giant case switch I used to try and organize common events in the game  
 menu_control.gd = I had no idea how to do UI so this is ridiculous (but functional)  
 rubick.gd = the AI for the computer  
+tournament.gd - Entirety of the tournament mode, this was added as a suggestion from a review after the game launched  
 

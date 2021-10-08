@@ -13,12 +13,18 @@ This is mostly just an example of how much code can be involved in even a small 
 
 I will go back and try to add more comments and information on this code base.
 
+You can't do anything functional from this code as the project files and assets are missing, but I think someone
+might still get some value from it. 
 
-Pixel Push Football can be downloaded from 
+
+Pixel Push Football can be downloaded from:
+https://apps.apple.com/us/app/pixel-push-football/id1495268406
+https://play.google.com/store/apps/details?id=io.bltinteractive.pixelpushfootball&hl=en_US&gl=US
+
 
 # reference 
 main.gd = main game controller and logic 
-game_event_control.gd = giant case switch I used to try and organize common events in the game 
+game_event_control.gd = giant case switch I used to try and organize common events in the game
+menu_control.gd = I had no idea how to do UI so this is ridiculous (but functional)
 
 
-I had no idea how to do UI, so the menu_control.gd is ridiculous (but functional)

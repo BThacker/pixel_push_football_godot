@@ -5,11 +5,13 @@ What this code is, is functional. I wrote the main game in less than 5 months.
 This is a testament to how easy Godot and GDscript are to pick up, but I by no means applied 
 best practices or even good practices in a lot of cases.   
 
-With that said the game logic is very stable 
-and mostly bug free. When designing a game for younger kids, accounting for literally any and every button press becomes challenging. 
+With that said the game logic is very stable and mostly bug free. 
+When designing a game for younger kids, accounting for literally any and every button press becomes challenging. 
+
+As I built this game as a project to learn godot, my knowledge and style changed multiple times throughout the code base.
+My later games are much more "defined" when it comes to style and technique, this was very experimental in various situations. 
 
 This is mostly just an example of how much code can be involved in even a small game release.  
-
 
 I will go back and try to add more comments and information on this code base.
 
